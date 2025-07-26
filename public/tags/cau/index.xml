@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Cau - Tag - Cau &amp; Pau&#39;s Home</title>
+        <link>http://localhost:1313/tags/cau/</link>
+        <description>Cau - Tag - Cau &amp; Pau&#39;s Home</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>0ldcamel502@gmail.com (Cau 19)</managingEditor>
+            <webMaster>0ldcamel502@gmail.com (Cau 19)</webMaster><lastBuildDate>Thu, 24 Jul 2025 12:03:30 &#43;0300</lastBuildDate><atom:link href="http://localhost:1313/tags/cau/" rel="self" type="application/rss+xml" /><item>
+    <title>Second post Several days ago</title>
+    <link>http://localhost:1313/posts/second_post/</link>
+    <pubDate>Thu, 24 Jul 2025 12:03:30 &#43;0300</pubDate><author>
+        <name>Cau 19</name>
+    </author><guid>http://localhost:1313/posts/second_post/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Cau&#39;s first post</title>
+    <link>http://localhost:1313/posts/first_post/</link>
+    <pubDate>Tue, 22 Jul 2025 12:03:30 &#43;0300</pubDate><author>
+        <name>Cau 19</name>
+    </author><guid>http://localhost:1313/posts/first_post/</guid>
+    <description><![CDATA[<p>Cau is a fat cat.</p>]]></description>
+</item></channel>
+</rss>
