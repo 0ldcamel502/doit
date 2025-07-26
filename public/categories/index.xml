@@ -1,22 +1,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Category - Cau &amp; Pau&#39;s Home</title>
-        <link>http://localhost:1313/doit/categories/</link>
+        <link>http://localhost:1313/categories/</link>
         <description>Categories - Category - Cau &amp; Pau&#39;s Home</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>0ldcamel502@gmail.com (Cau 19)</managingEditor>
-            <webMaster>0ldcamel502@gmail.com (Cau 19)</webMaster><lastBuildDate>Sat, 26 Jul 2025 12:09:28 &#43;0300</lastBuildDate><atom:link href="http://localhost:1313/doit/categories/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>0ldcamel502@gmail.com (Cau 19)</webMaster><lastBuildDate>Sat, 26 Jul 2025 12:09:28 &#43;0300</lastBuildDate><atom:link href="http://localhost:1313/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Cat</title>
-    <link>http://localhost:1313/doit/categories/cat/</link>
+    <link>http://localhost:1313/categories/cat/</link>
     <pubDate>Sat, 26 Jul 2025 12:09:28 &#43;0300</pubDate><author>
         <name>Cau 19</name>
-    </author><guid>http://localhost:1313/doit/categories/cat/</guid>
+    </author><guid>http://localhost:1313/categories/cat/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Man</title>
-    <link>http://localhost:1313/doit/categories/man/</link>
+    <link>http://localhost:1313/categories/man/</link>
     <pubDate>Thu, 24 Jul 2025 12:03:30 &#43;0300</pubDate><author>
         <name>Cau 19</name>
-    </author><guid>http://localhost:1313/doit/categories/man/</guid>
+    </author><guid>http://localhost:1313/categories/man/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

@@ -2,15 +2,15 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/doit/categories/cat/</loc><lastmod>2025-07-26T12:09:28&#43;03:00</lastmod></url><url>
-            <loc>http://localhost:1313/doit/categories/</loc><lastmod>2025-07-26T12:09:28&#43;03:00</lastmod></url><url>
-            <loc>http://localhost:1313/doit/</loc><lastmod>2025-07-26T12:09:28&#43;03:00</lastmod></url><url>
-            <loc>http://localhost:1313/doit/tags/pau/</loc><lastmod>2025-07-26T12:09:28&#43;03:00</lastmod></url><url>
-            <loc>http://localhost:1313/doit/posts/</loc><lastmod>2025-07-26T12:09:28&#43;03:00</lastmod></url><url>
-            <loc>http://localhost:1313/doit/tags/</loc><lastmod>2025-07-26T12:09:28&#43;03:00</lastmod></url><url>
-            <loc>http://localhost:1313/doit/posts/third_post/</loc><lastmod>2025-07-26T12:09:28&#43;03:00</lastmod></url><url>
-            <loc>http://localhost:1313/doit/tags/cau/</loc><lastmod>2025-07-24T12:03:30&#43;03:00</lastmod></url><url>
-            <loc>http://localhost:1313/doit/tags/fat/</loc><lastmod>2025-07-24T12:03:30&#43;03:00</lastmod></url><url>
-            <loc>http://localhost:1313/doit/categories/man/</loc><lastmod>2025-07-24T12:03:30&#43;03:00</lastmod></url><url>
-            <loc>http://localhost:1313/doit/posts/second_post/</loc><lastmod>2025-07-24T12:03:30&#43;03:00</lastmod></url><url>
-            <loc>http://localhost:1313/doit/posts/first_post/</loc><lastmod>2025-07-22T12:03:30&#43;03:00</lastmod></url></urlset>
+            <loc>http://localhost:1313/categories/cat/</loc><lastmod>2025-07-26T12:09:28&#43;03:00</lastmod></url><url>
+            <loc>http://localhost:1313/categories/</loc><lastmod>2025-07-26T12:09:28&#43;03:00</lastmod></url><url>
+            <loc>http://localhost:1313/</loc><lastmod>2025-07-26T12:09:28&#43;03:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/pau/</loc><lastmod>2025-07-26T12:09:28&#43;03:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/</loc><lastmod>2025-07-26T12:09:28&#43;03:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/</loc><lastmod>2025-07-26T12:09:28&#43;03:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/third_post/</loc><lastmod>2025-07-26T12:09:28&#43;03:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/cau/</loc><lastmod>2025-07-24T12:03:30&#43;03:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/fat/</loc><lastmod>2025-07-24T12:03:30&#43;03:00</lastmod></url><url>
+            <loc>http://localhost:1313/categories/man/</loc><lastmod>2025-07-24T12:03:30&#43;03:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/second_post/</loc><lastmod>2025-07-24T12:03:30&#43;03:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/first_post/</loc><lastmod>2025-07-22T12:03:30&#43;03:00</lastmod></url></urlset>
