@@ -116,6 +116,7 @@ theme = "DoIt"
 
       # Waline comment config
       [params.page.comment.waline]
+        #
         enable = true
         serverURL = "https://doit-waline.vercel.app/"
         pageview = true
