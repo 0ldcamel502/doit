@@ -113,12 +113,20 @@ theme = "DoIt"
     #  Comment config
     [params.page.comment]
       enable = true
+
+      # Waline comment config
+      [params.page.comment.waline]
+        enable = true
+        serverURL = "https://doit-waline-ib897sfm2-0ldcamel502s-projects.vercel.app/"
+        pageview = true
+        comment = true
+
       # Valine comment config
       [params.page.comment.valine]
-        enable = true
+        enable = false
         appId = "So2NBM3iveDtMU1pUj4aeDFk-MdYXbMMI"
         appKey = "38ofmc2aw6Gmdwtl5TqSPE1D"
-        placeholder = ""
+        placeholder = "Your comment"
         avatar = "mp"
         meta= ""
         pageSize = 10
@@ -127,7 +135,8 @@ theme = "DoIt"
         recordIP = true
         highlight = true
         enableQQ = false
-        serverURLs = ""
+        
+        requiredFields = ['nick']
 
 [menu]
   [[menu.main]]
