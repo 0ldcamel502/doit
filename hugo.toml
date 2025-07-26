@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://0ldcamel502.github.io/doit/"
 defaultContentLanguage = "en"
 languageCode = "en"
 title = "Cau & Pau's Home"
@@ -127,7 +127,7 @@ theme = "DoIt"
         recordIP = true
         highlight = true
         enableQQ = false
-      # serverURLs = ""
+        serverURLs = ""
 
 [menu]
   [[menu.main]]

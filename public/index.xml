@@ -1,31 +1,31 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Cau &amp; Pau&#39;s Home</title>
-        <link>http://localhost:1313/</link>
+        <link>http://localhost:1313/doit/</link>
         <description>Cau &amp; Pau&#39;s Home</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>0ldcamel502@gmail.com (Cau 19)</managingEditor>
             <webMaster>0ldcamel502@gmail.com (Cau 19)</webMaster><lastBuildDate>Sat, 26 Jul 2025 12:09:28 &#43;0300</lastBuildDate>
-            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="http://localhost:1313/doit/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Third post</title>
-    <link>http://localhost:1313/posts/third_post/</link>
+    <link>http://localhost:1313/doit/posts/third_post/</link>
     <pubDate>Sat, 26 Jul 2025 12:09:28 &#43;0300</pubDate><author>
         <name>Cau 19</name>
-    </author><guid>http://localhost:1313/posts/third_post/</guid>
+    </author><guid>http://localhost:1313/doit/posts/third_post/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Second post Several days ago</title>
-    <link>http://localhost:1313/posts/second_post/</link>
+    <link>http://localhost:1313/doit/posts/second_post/</link>
     <pubDate>Thu, 24 Jul 2025 12:03:30 &#43;0300</pubDate><author>
         <name>Cau 19</name>
-    </author><guid>http://localhost:1313/posts/second_post/</guid>
+    </author><guid>http://localhost:1313/doit/posts/second_post/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Cau&#39;s first post</title>
-    <link>http://localhost:1313/posts/first_post/</link>
+    <link>http://localhost:1313/doit/posts/first_post/</link>
     <pubDate>Tue, 22 Jul 2025 12:03:30 &#43;0300</pubDate><author>
         <name>Cau 19</name>
-    </author><guid>http://localhost:1313/posts/first_post/</guid>
+    </author><guid>http://localhost:1313/doit/posts/first_post/</guid>
     <description><![CDATA[<p>Cau is a fat cat.</p>]]></description>
 </item></channel>
 </rss>
