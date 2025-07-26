@@ -6,6 +6,10 @@ title = "Cau & Pau's Home"
 # Change the default theme to be use when building the site with Hugo
 theme = "DoIt"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params]
   # DoIt theme version
   version = "0.4.X"
